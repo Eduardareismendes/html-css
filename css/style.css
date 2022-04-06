@@ -1,0 +1,33 @@
+body{
+    background: #c0c0c0;
+}
+p.texto1{
+    color: #ff0000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: #da19ec;
+    text-transform: capitalize;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    line-height: 0.8;
+    text-shadow: 2px 2px 5px rgb(21, 206, 190);
+
+}
+p.texto2{
+    color: #2e19ec;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    text-align: right;
+    text-decoration-line:overline;
+    text-decoration-color: #8f68ce;
+    text-transform: uppercase;
+    text-decoration-style:dotted;
+    text-decoration-thickness: 2px;
+    text-indent: 60px;
+    letter-spacing: 7px;
+    line-height: 1,0;
+    text-shadow: 2px 2px 5px rgb(255, 63, 63);
+
+}
